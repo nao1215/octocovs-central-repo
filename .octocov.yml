@@ -1,0 +1,12 @@
+central:
+  reports:
+    datastores:
+      - artifact://k1LoW/octocov # delete this line
+      # - artifact://owner/repo
+      # - artifact://owner/other-repo
+      # - artifact://owner/another-repo
+  badges:
+    datastores:
+      - local://badges
+  push:
+    enable: true

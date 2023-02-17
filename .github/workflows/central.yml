@@ -1,0 +1,21 @@
+name: Collect
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,3,6,9 * * *'
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  collect:
+    name: Collect code metrics using octocov central mode
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v3
+
+      - name: Run octocov
+        uses: k1LoW/octocov-action@v0
