@@ -1,7 +1,7 @@
 central:
   reports:
     datastores:
-      - artifact://k1LoW/octocov # delete this line
+      - artifact://nao1215/trash
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
