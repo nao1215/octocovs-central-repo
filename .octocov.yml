@@ -4,6 +4,7 @@ central:
       - artifact://nao1215/leadtime
       - artifact://nao1215/jose
       - artifact://nao1215/aiondb
+      - artifact://nao1215/imaging
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
