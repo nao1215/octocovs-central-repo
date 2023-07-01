@@ -5,6 +5,7 @@ central:
       - artifact://nao1215/jose
       - artifact://nao1215/aiondb
       - artifact://nao1215/imaging
+      - artifact://nao1215/emigre
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
