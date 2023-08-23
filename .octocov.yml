@@ -6,6 +6,7 @@ central:
       - artifact://nao1215/aiondb
       - artifact://nao1215/imaging
       - artifact://nao1215/emigre
+      - artifact://nao1215/spare
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
