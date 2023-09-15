@@ -1,6 +1,7 @@
 central:
   reports:
     datastores:
+      - artifact://nao1215/gup
       - artifact://nao1215/leadtime
       - artifact://nao1215/jose
       - artifact://nao1215/aiondb
