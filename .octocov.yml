@@ -10,6 +10,7 @@ central:
       - artifact://nao1215/emigre
       - artifact://nao1215/spare
       - artifact://nao1215/spectest
+      - artifact://nao1215/pooh
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
