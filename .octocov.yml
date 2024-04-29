@@ -18,6 +18,7 @@ central:
       - artifact://nao1215/markdown
       - artifact://nao1215/diff
       - artifact://nao1215/imaging
+      - artifact://nao1215/sqly
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
