@@ -19,6 +19,7 @@ central:
       - artifact://nao1215/diff
       - artifact://nao1215/imaging
       - artifact://nao1215/sqly
+      - artifact://nao1215/hasher
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
