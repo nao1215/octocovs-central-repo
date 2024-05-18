@@ -21,6 +21,7 @@ central:
       - artifact://nao1215/sqly
       - artifact://nao1215/hasher
       - artifact://nao1215/csv
+      - artifact://nao1215/honeycomb
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
