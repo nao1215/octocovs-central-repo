@@ -22,6 +22,7 @@ central:
       - artifact://nao1215/hasher
       - artifact://nao1215/csv
       - artifact://nao1215/honeycomb
+      - artifact://nao1215/coincheck
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
