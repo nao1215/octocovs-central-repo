@@ -25,6 +25,7 @@ central:
       - artifact://nao1215/coincheck
       - artifact://nao1215/hurrah
       - artifact://nao1215/vogen
+      - artifact://nao1215/sqluv
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
