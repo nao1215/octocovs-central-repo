@@ -26,6 +26,7 @@ central:
       - artifact://nao1215/hurrah
       - artifact://nao1215/vogen
       - artifact://nao1215/sqluv
+      - artifact://nao1215/filesql
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
