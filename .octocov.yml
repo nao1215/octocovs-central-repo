@@ -25,6 +25,7 @@ central:
       - artifact://nao1215/sqluv
       - artifact://nao1215/filesql
       - artifact://nao1215/prompt
+      - artifact://nao1215/tornago
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
