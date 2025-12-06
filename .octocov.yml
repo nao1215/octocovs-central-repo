@@ -28,6 +28,7 @@ central:
       - artifact://nao1215/tornago
       - artifact://nao1215/onionlint
       - artifact://nao1215/onionscan
+      - artifact://nao1215/fileprep
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
