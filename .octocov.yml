@@ -30,7 +30,7 @@ central:
       - artifact://nao1215/onionscan
       - artifact://nao1215/fileprep
       - artifact://nao1215/fileframe
-      
+      - artifact://nao1215/fileparser 
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
