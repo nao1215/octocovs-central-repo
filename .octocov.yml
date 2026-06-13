@@ -32,6 +32,7 @@ central:
       - artifact://nao1215/fileframe
       - artifact://nao1215/fileparser
       - artifact://nao1215/mimixbox
+      - artifact://nao1215/career
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
