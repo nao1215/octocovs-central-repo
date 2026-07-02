@@ -33,6 +33,7 @@ central:
       - artifact://nao1215/fileparser
       - artifact://nao1215/mimixbox
       - artifact://nao1215/career
+      - artifact://nao1215/atago
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
