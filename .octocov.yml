@@ -34,6 +34,7 @@ central:
       - artifact://nao1215/mimixbox
       - artifact://nao1215/career
       - artifact://nao1215/atago
+      - artifact://nao1215/omokage
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
