@@ -35,6 +35,7 @@ central:
       - artifact://nao1215/career
       - artifact://nao1215/atago
       - artifact://nao1215/omokage
+      - artifact://nao1215/jsonize
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
