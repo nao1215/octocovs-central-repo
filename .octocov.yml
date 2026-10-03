@@ -37,6 +37,7 @@ central:
       - artifact://nao1215/omokage
       - artifact://nao1215/jsonize
       - artifact://nao1215/bluesky-terminal-client
+      - artifact://nao1215/rabbitrun
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
