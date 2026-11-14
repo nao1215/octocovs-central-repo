@@ -40,6 +40,7 @@ central:
       - artifact://nao1215/rabbitrun
       - artifact://nao1215/action-readme-showcase
       - artifact://nao1215/gozen
+      - artifact://nao1215/sensitive
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
