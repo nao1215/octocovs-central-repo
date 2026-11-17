@@ -9,13 +9,19 @@ on:
       - main
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   collect:
     name: Collect code metrics using octocov central mode
     runs-on: ubuntu-latest
+    permissions:
+      # octocov commits the collected badges and README to this repository.
+      contents: write
     steps:
       - name: Check out source code
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Run octocov
-        uses: k1LoW/octocov-action@v0
+        uses: k1LoW/octocov-action@a167dc0dee441b7ffc45e1b862ab55ec0d87f278 # v1.5.2
