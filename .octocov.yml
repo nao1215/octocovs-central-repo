@@ -23,6 +23,7 @@ central:
       - artifact://nao1215/iso8583tool
       - artifact://nao1215/block
       - artifact://nao1215/himorime
+      - artifact://nao1215/kongo
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
