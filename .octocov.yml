@@ -16,6 +16,7 @@ central:
       - artifact://nao1215/omokage
       - artifact://nao1215/jsonize
       - artifact://nao1215/bluesky-terminal-client
+      - artifact://nao1215/misskey-terminal-client
       - artifact://nao1215/rabbitrun
       - artifact://nao1215/action-readme-showcase
       - artifact://nao1215/gozen
