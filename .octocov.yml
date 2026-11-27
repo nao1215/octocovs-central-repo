@@ -24,6 +24,7 @@ central:
       - artifact://nao1215/block
       - artifact://nao1215/himorime
       - artifact://nao1215/kongo
+      - artifact://nao1215/truss
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
