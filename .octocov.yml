@@ -40,6 +40,7 @@ central:
       - artifact://nao1215/finanza
       - artifact://nao1215/automata
       - artifact://nao1215/sqlode
+      - artifact://nao1215/oaspec
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
