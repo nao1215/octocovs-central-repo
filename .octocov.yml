@@ -39,6 +39,7 @@ central:
       - artifact://nao1215/textmetrics
       - artifact://nao1215/finanza
       - artifact://nao1215/automata
+      - artifact://nao1215/sqlode
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
