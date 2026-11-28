@@ -27,6 +27,14 @@ central:
       - artifact://nao1215/kongo
       - artifact://nao1215/truss
       - artifact://nao1215/metamon
+      - artifact://nao1215/qrkit
+      - artifact://nao1215/dataprep
+      - artifact://nao1215/datastream
+      - artifact://nao1215/yabase
+      - artifact://nao1215/mimetype
+      - artifact://nao1215/multipartkit
+      - artifact://nao1215/ssevents
+      - artifact://nao1215/sparklinekit
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
