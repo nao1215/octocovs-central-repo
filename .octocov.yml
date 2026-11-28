@@ -35,6 +35,10 @@ central:
       - artifact://nao1215/multipartkit
       - artifact://nao1215/ssevents
       - artifact://nao1215/sparklinekit
+      - artifact://nao1215/geokit
+      - artifact://nao1215/textmetrics
+      - artifact://nao1215/finanza
+      - artifact://nao1215/automata
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
